@@ -9,12 +9,27 @@
   margin-bottom:3em;
 }
 
-.houseimg {
-  float: right;
-  width: 50%;
-  height: auto;
-}
-
 div{
   margin-top: 1em;
+  border: solid rgb(0, 0, 0) 1px;
+}
+
+.houseimg {
+  float: right;
+}
+
+.insideimg{
+  float: left;
+}
+.first{
+  display: block;
+  
+}
+.second{
+  display: block;
+}
+img {
+  margin:1em;
+  width: 50%;
+  height: auto;
 }
