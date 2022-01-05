@@ -4,6 +4,17 @@
 }
 
 .column {
-  width: 300px;
+  width: 33.1%;
   float: left;
+  margin-bottom:3em;
+}
+
+.houseimg {
+  float: right;
+  width: 50%;
+  height: auto;
+}
+
+div{
+  margin-top: 1em;
 }
