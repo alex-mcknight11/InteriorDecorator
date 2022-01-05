@@ -1,6 +1,9 @@
 .page {
+  border: 4px grey;
+  padding: 2px;
   margin: auto;
   width: 80%;
+  box-sizing: border-box;
 }
 
 .column {
@@ -27,9 +30,18 @@ div{
 }
 .second{
   display: block;
+  margin-bottom: 10em;
 }
 img {
   margin:1em;
   width: 50%;
   height: auto;
+}
+.boxed {
+  width: 60%;
+  padding: 20px;
+  border: solid black 10px;
+  margin:10em;
+  box-sizing: border-box;
+  margin:auto;
 }
